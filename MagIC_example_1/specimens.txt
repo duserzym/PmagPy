@@ -1,0 +1,678 @@
+tab 	specimens
+citations	dir_comp	dir_dang	dir_dec	dir_inc	dir_mad_free	dir_n_comps	dir_n_measurements	dir_tilt_correction	experiments	geologic_classes	geologic_types	instrument_codes	int_corr	lithologies	meas_step_max	meas_step_min	meas_step_unit	method_codes	result_quality	sample	software_packages	specimen
+This study	Fit 1	3.5	352.3	32.6	1.1	1	19	0	GH01A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH01A	pmagpy-3.16.0: demag_gui	GH01A1
+This study	Fit 1	4.6	358.2	39.4	1	1	9	0	GH01B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH01B	pmagpy-3.16.0: demag_gui	GH01B1
+This study	Fit 1	2.7	349.5	45	2.2	1	11	0	GH01B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	523	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH01B	pmagpy-3.16.0: demag_gui	GH01B2
+This study	Fit 1	4.7	350.1	37.9	1.2	1	5	0	GH01C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	5.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH01C	pmagpy-3.16.0: demag_gui	GH01C1
+This study									GH01C2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01C		GH01C2
+This study	Fit 1	3.6	347.7	31.1	1.5	1	6	0	GH01D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	6.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH01D	pmagpy-3.16.0: demag_gui	GH01D1
+This study									GH01F1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01F		GH01F1
+This study									GH01G1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01G		GH01G1
+This study	Fit 1	4.5	340.4	36.6	2	1	5	0	GH01H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	5.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH01H	pmagpy-3.16.0: demag_gui	GH01H1
+This study									GH01H2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01H		GH01H2
+This study									GH01I1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01I		GH01I1
+This study									GH01J1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01J		GH01J1
+This study									GH01J2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01J		GH01J2
+This study									GH01K1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH01K		GH01K1
+This study	Fit 1	2	352.1	36.9	0.8	1	9	0	GH01M1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	9.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH01M	pmagpy-3.16.0: demag_gui	GH01M1
+This study	Fit 1	1.3	348.9	38	0.7	1	18	0	GH02A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH02A	pmagpy-3.16.0: demag_gui	GH02A1
+This study	Fit 1	0.3	352.8	37.6	0.9	1	10	0	GH02C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	9.00E-02	5.00E-03	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH02C	pmagpy-3.16.0: demag_gui	GH02C1
+This study	Fit 1	0.7	352.2	40.9	1	1	9	0	GH02D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	9.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH02D	pmagpy-3.16.0: demag_gui	GH02D1
+This study	Fit 1	1.1	349.7	40.3	1	1	9	0	GH02E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	9.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH02E	pmagpy-3.16.0: demag_gui	GH02E1
+This study	Fit 1	0.1	346.5	38.5	2	1	12	0	GH02E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH02E	pmagpy-3.16.0: demag_gui	GH02E2
+This study	Fit 1	1.6	346.9	33.6	1.8	1	8	0	GH02F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH02F	pmagpy-3.16.0: demag_gui	GH02F1
+This study	Fit 1	1.5	349.4	34.8	1.6	1	8	0	GH02G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH02G	pmagpy-3.16.0: demag_gui	GH02G1
+This study	Fit 1	0.2	351.1	33.7	1	1	7	0	GH02G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH02G	pmagpy-3.16.0: demag_gui	GH02G2
+This study	Fit 1	1	161.4	-56	0.9	1	13	0	GH03A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03A	pmagpy-3.16.0: demag_gui	GH03A1
+This study	Fit 1	0.7	157	-56.2	0.8	1	7	0	GH03B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03B	pmagpy-3.16.0: demag_gui	GH03B1
+This study	Fit 1	1	152	-55.9	0.9	1	6	0	GH03C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03C	pmagpy-3.16.0: demag_gui	GH03C1
+This study	Fit 1	1.7	146	-60.2	1.3	1	4	0	GH03C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	813	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH03C	pmagpy-3.16.0: demag_gui	GH03C2
+This study	Fit 1	0.2	161.6	-56.2	0.6	1	6	0	GH03D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03D	pmagpy-3.16.0: demag_gui	GH03D1
+This study	Fit 1	0.4	162.9	-54.3	0.3	1	6	0	GH03E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03E	pmagpy-3.16.0: demag_gui	GH03E1
+This study	Fit 1	0.8	163.6	-58.1	0.9	1	6	0	GH03E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH03E	pmagpy-3.16.0: demag_gui	GH03E2
+This study	Fit 1	0.4	152.8	-57.5	0.7	1	6	0	GH03G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03G	pmagpy-3.16.0: demag_gui	GH03G1
+This study	Fit 1	0.6	154.6	-56.8	1.1	1	6	0	GH03H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH03H	pmagpy-3.16.0: demag_gui	GH03H1
+This study	Fit 1	0.1	171.8	-58.5	0.4	1	14	0	GH04A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04A	pmagpy-3.16.0: demag_gui	GH04A1
+This study	Fit 1	0.3	171.1	-59.1	0.3	1	7	0	GH04B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04B	pmagpy-3.16.0: demag_gui	GH04B1
+This study	Fit 1	0.4	181	-57.9	0.4	1	7	0	GH04C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04C	pmagpy-3.16.0: demag_gui	GH04C1
+This study	Fit 1	0.9	177	-58.4	0.7	1	10	0	GH04D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04D	pmagpy-3.16.0: demag_gui	GH04D1
+This study	Fit 1	0.1	173.8	-52.8	0.4	1	8	0	GH04E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04E	pmagpy-3.16.0: demag_gui	GH04E1
+This study	Fit 1	0.3	178.4	-53.4	0.9	1	6	0	GH04E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH04E	pmagpy-3.16.0: demag_gui	GH04E2
+This study	Fit 1	0.5	172.2	-56.9	0.4	1	8	0	GH04F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04F	pmagpy-3.16.0: demag_gui	GH04F1
+This study	Fit 1	0.1	174.5	-62.9	0.6	1	8	0	GH04G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04G	pmagpy-3.16.0: demag_gui	GH04G1
+This study	Fit 1	0.8	175.6	-60.6	0.8	1	6	0	GH04G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH04G	pmagpy-3.16.0: demag_gui	GH04G2
+This study	Fit 1	0.3	175.6	-59.5	0.8	1	8	0	GH04H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH04H	pmagpy-3.16.0: demag_gui	GH04H1
+This study	Fit 1	0.2	191.6	-57.5	0.4	1	8	0	GH05A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05A	pmagpy-3.16.0: demag_gui	GH05A1
+This study	Fit 1	0.4	187.9	-54.2	0.5	1	17	0	GH05B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05B	pmagpy-3.16.0: demag_gui	GH05B1
+This study	Fit 1	0.3	182.4	-51.8	0.5	1	8	0	GH05D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05D	pmagpy-3.16.0: demag_gui	GH05D1
+This study									GH05E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH05E		GH05E1
+This study									GH05E2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH05E		GH05E2
+This study									GH05F1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH05F		GH05F1
+This study	Fit 1	0.3	172	-61.6	0.3	1	8	0	GH05G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05G	pmagpy-3.16.0: demag_gui	GH05G1
+This study	Fit 1	0.5	174.6	-56.1	0.6	1	8	0	GH05H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05H	pmagpy-3.16.0: demag_gui	GH05H1
+This study	Fit 1	0.8	178.6	-54.8	1.4	1	7	0	GH05H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH05H	pmagpy-3.16.0: demag_gui	GH05H2
+This study	Fit 1	0.1	182.2	-58.7	0.7	1	9	0	GH05I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05I	pmagpy-3.16.0: demag_gui	GH05I1
+This study	Fit 1	0.2	181.8	-60.1	0.2	1	5	0	GH05I2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH05I	pmagpy-3.16.0: demag_gui	GH05I2
+This study	Fit 1	0.2	183.2	-53.1	0.6	1	8	0	GH05K1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH05K	pmagpy-3.16.0: demag_gui	GH05K1
+This study	Fit 1	0.2	173.8	-58.6	1	1	8	0	GH05L1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH05L	pmagpy-3.16.0: demag_gui	GH05L1
+This study	Fit 1	0.4	9.9	47.5	1.4	1	12	0	GH06A2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06A	pmagpy-3.16.0: demag_gui	GH06A2
+This study	Fit 1	0.9	5.5	48.2	1.2	1	8	0	GH06C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06C	pmagpy-3.16.0: demag_gui	GH06C1
+This study	Fit 1	2.1	8.4	49.7	2.2	1	7	0	GH06D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH06D	pmagpy-3.16.0: demag_gui	GH06D1
+This study	Fit 1	0.7	6.3	46.4	1.1	1	8	0	GH06D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06D	pmagpy-3.16.0: demag_gui	GH06D2
+This study	Fit 1	0.7	2.5	50.3	1.1	1	8	0	GH06E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06E	pmagpy-3.16.0: demag_gui	GH06E1
+This study	Fit 1	4.3	358.2	53.8	2.6	1	7	0	GH06E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH06E	pmagpy-3.16.0: demag_gui	GH06E2
+This study	Fit 1	1.4	0.8	50.9	1.3	1	6	0	GH06F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	5.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06F	pmagpy-3.16.0: demag_gui	GH06F2
+This study	Fit 1	0.4	8.2	51.8	0.6	1	8	0	GH06G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06G	pmagpy-3.16.0: demag_gui	GH06G1
+This study	Fit 1	0.7	10.8	50.8	0.6	1	8	0	GH06H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH06H	pmagpy-3.16.0: demag_gui	GH06H2
+This study	Fit 1	0.2	4.5	59.4	0.6	1	16	0	GH07A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07A	pmagpy-3.16.0: demag_gui	GH07A1
+This study	Fit 1	0.4	8.1	57.4	1.3	1	8	0	GH07B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07B	pmagpy-3.16.0: demag_gui	GH07B1
+This study									GH07C1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH07C		GH07C1
+This study									GH07C2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH07C		GH07C2
+This study	Fit 1	1.1	11.8	56.6	0.6	1	8	0	GH07D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07D	pmagpy-3.16.0: demag_gui	GH07D1
+This study	Fit 1	0.5	8.1	54.6	0.5	1	8	0	GH07E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07E	pmagpy-3.16.0: demag_gui	GH07E1
+This study	Fit 1	0.3	359.6	60.5	0.4	1	5	0	GH07F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH07F	pmagpy-3.16.0: demag_gui	GH07F1
+This study	Fit 1	0.3	7.6	54.3	0.4	1	8	0	GH07F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07F	pmagpy-3.16.0: demag_gui	GH07F2
+This study	Fit 1	1.6	2.2	48.5	1.2	1	8	0	GH07G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07G	pmagpy-3.16.0: demag_gui	GH07G1
+This study	Fit 1	0.7	4.3	60.4	0.8	1	7	0	GH07I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07I	pmagpy-3.16.0: demag_gui	GH07I1
+This study	Fit 1	0.7	1.4	50.2	0.5	1	9	0	GH07J1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH07J	pmagpy-3.16.0: demag_gui	GH07J1
+This study	Fit 1	0.5	13.1	56.8	1	1	17	0	GH08A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH08A	pmagpy-3.16.0: demag_gui	GH08A1
+This study	Fit 1	1.9	3.9	59.5	4.8	1	13	0	GH08B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	373	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH08B	pmagpy-3.16.0: demag_gui	GH08B2
+This study	Fit 1	1	7.5	61.8	3	1	13	0	GH08C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	373	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH08C	pmagpy-3.16.0: demag_gui	GH08C1
+This study	Fit 1	1	5.9	58.5	0.8	1	9	0	GH08C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH08C	pmagpy-3.16.0: demag_gui	GH08C2
+This study	Fit 1	1.3	14.5	57.3	0.7	1	8	0	GH08E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH08E	pmagpy-3.16.0: demag_gui	GH08E1
+This study	Fit 1	1.1	14.3	55.8	0.8	1	8	0	GH08F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH08F	pmagpy-3.16.0: demag_gui	GH08F2
+This study	Fit 1	0.8	14.7	62.4	0.3	1	8	0	GH08G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH08G	pmagpy-3.16.0: demag_gui	GH08G1
+This study	Fit 1	2.2	18.2	59	0.6	1	8	0	GH08H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH08H	pmagpy-3.16.0: demag_gui	GH08H1
+This study	Fit 1	4.3	87.8	18.2	3.5	1	17	0	GH09A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH09A	pmagpy-3.16.0: demag_gui	GH09A1
+This study	Fit 1	3.1	94.3	18.3	2.8	1	8	0	GH09B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH09B	pmagpy-3.16.0: demag_gui	GH09B1
+This study	Fit 1	3.2	86.2	24.6	4.9	1	8	0	GH09C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH09C	pmagpy-3.16.0: demag_gui	GH09C2
+This study	Fit 1	2.3	87.1	24.9	3	1	8	0	GH09D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH09D	pmagpy-3.16.0: demag_gui	GH09D1
+This study									GH09E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH09E		GH09E1
+This study	Fit 1	1.2	76.1	39.8	3.6	1	6	0	GH09G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH09G	pmagpy-3.16.0: demag_gui	GH09G1
+This study	Fit 1	1	74.4	40	3.2	1	6	0	GH09G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH09G	pmagpy-3.16.0: demag_gui	GH09G2
+This study	Fit 1	0.3	176.1	-53.7	0.7	1	15	0	GH10A2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH10A	pmagpy-3.16.0: demag_gui	GH10A2
+This study	Fit 1	0.7	178.5	-53.9	0.9	1	7	0	GH10B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH10B	pmagpy-3.16.0: demag_gui	GH10B2
+This study	Fit 1	0.5	180.7	-57	0.9	1	7	0	GH10C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH10C	pmagpy-3.16.0: demag_gui	GH10C1
+This study	Fit 1	0.1	180.2	-55.1	0.8	1	5	0	GH10D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	5.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH10D	pmagpy-3.16.0: demag_gui	GH10D1
+This study	Fit 1	0.4	172.6	-60.2	0.7	1	5	0	GH10E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH10E	pmagpy-3.16.0: demag_gui	GH10E1
+This study	Fit 1	0.1	173.4	-60.3	0.9	1	8	0	GH10E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH10E	pmagpy-3.16.0: demag_gui	GH10E2
+This study	Fit 1	0.1	175.3	-58.5	0.6	1	5	0	GH10F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH10F	pmagpy-3.16.0: demag_gui	GH10F1
+This study	Fit 1	0.5	168.3	-55.1	0.9	1	5	0	GH10G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH10G	pmagpy-3.16.0: demag_gui	GH10G2
+This study	Fit 1	0.5	222.8	-52.2	1.2	1	10	0	GH11B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH11B	pmagpy-3.16.0: demag_gui	GH11B1
+This study	Fit 1	1.4	213.1	-48.5	1.9	1	10	0	GH11C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH11C	pmagpy-3.16.0: demag_gui	GH11C1
+This study	Fit 1	2.9	217.2	-48.8	1.7	1	18	0	GH11D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH11D	pmagpy-3.16.0: demag_gui	GH11D1
+This study	Fit 1	0.9	217	-50.7	0.6	1	7	0	GH11D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH11D	pmagpy-3.16.0: demag_gui	GH11D2
+This study	Fit 1	0.8	214.4	-47.7	0.9	1	11	0	GH11E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH11E	pmagpy-3.16.0: demag_gui	GH11E1
+This study	Fit 1	1.6	211.8	-49.9	0.7	1	6	0	GH11F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH11F	pmagpy-3.16.0: demag_gui	GH11F1
+This study	Fit 1	1	211.7	-50.9	0.8	1	6	0	GH11G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH11G	pmagpy-3.16.0: demag_gui	GH11G1
+This study	Fit 1	0.8	208.1	-45.4	1.4	1	10	0	GH11H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	573	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH11H	pmagpy-3.16.0: demag_gui	GH11H1
+This study	Fit 1	0.4	5.5	51.1	1.7	1	10	0	GH12A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH12A	pmagpy-3.16.0: demag_gui	GH12A1
+This study	Fit 1	0.9	2.4	53.6	0.3	1	9	0	GH12C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH12C	pmagpy-3.16.0: demag_gui	GH12C1
+This study	Fit 1	1.1	5	44.2	0.5	1	9	0	GH12D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH12D	pmagpy-3.16.0: demag_gui	GH12D1
+This study	Fit 1	2.2	356.8	38	3.5	1	12	0	GH12E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH12E	pmagpy-3.16.0: demag_gui	GH12E1
+This study	Fit 1	1.9	3.3	40.2	1.9	1	8	0	GH12F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH12F	pmagpy-3.16.0: demag_gui	GH12F2
+This study									GH12G1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH12G		GH12G1
+This study	Fit 1	1.3	4.5	44.4	1	1	9	0	GH12G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH12G	pmagpy-3.16.0: demag_gui	GH12G2
+This study	Fit 1	1.2	359.2	42.5	0.9	1	9	0	GH12H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH12H	pmagpy-3.16.0: demag_gui	GH12H2
+This study	Fit 1	0.9	16.9	60.5	0.6	1	11	0	GH13A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH13A	pmagpy-3.16.0: demag_gui	GH13A1
+This study									GH13A2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH13A		GH13A2
+This study	Fit 1	1.1	14.6	49.2	0.6	1	8	0	GH13B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH13B	pmagpy-3.16.0: demag_gui	GH13B1
+This study	Fit 1	0.3	14.8	60.4	0.6	1	11	0	GH13C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	523	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH13C	pmagpy-3.16.0: demag_gui	GH13C1
+This study	Fit 1	0.3	48.6	56.4	1.4	1	12	0	GH13D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH13D	pmagpy-3.16.0: demag_gui	GH13D1
+This study	Fit 1	1.5	44.1	55.5	1.4	1	10	0	GH13D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH13D	pmagpy-3.16.0: demag_gui	GH13D2
+This study	Fit 1	0.8	22.8	61.8	0.7	1	9	0	GH13E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH13E	pmagpy-3.16.0: demag_gui	GH13E1
+This study	Fit 1	0.7	20.3	63.3	0.6	1	5	0	GH13F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH13F	pmagpy-3.16.0: demag_gui	GH13F1
+This study	Fit 1	0.3	16.9	66.2	0.5	1	5	0	GH13H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH13H	pmagpy-3.16.0: demag_gui	GH13H2
+This study	Fit 1	2.4	313.3	32.3	3.2	1	7	0	GH14A2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH14A	pmagpy-3.16.0: demag_gui	GH14A2
+This study	Fit 1	0.7	348.9	53.9	0.8	1	9	0	GH14B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH14B	pmagpy-3.16.0: demag_gui	GH14B1
+This study	Fit 1	1.7	315.2	28	2.6	1	8	0	GH14B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH14B	pmagpy-3.16.0: demag_gui	GH14B2
+This study	Fit 1	0.4	18.8	55.1	1	1	9	0	GH14C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH14C	pmagpy-3.16.0: demag_gui	GH14C1
+This study	Fit 1	0.6	323.3	28.5	3.4	1	5	0	GH14D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH14D	pmagpy-3.16.0: demag_gui	GH14D1
+This study	Fit 1	0.8	11.9	51.3	1.7	1	8	0	GH14D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH14D	pmagpy-3.16.0: demag_gui	GH14D2
+This study	Fit 1	0.9	9.6	56.3	1.3	1	9	0	GH14E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH14E	pmagpy-3.16.0: demag_gui	GH14E2
+This study	Fit 1	0.9	5.4	58.1	0.8	1	8	0	GH14F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH14F	pmagpy-3.16.0: demag_gui	GH14F2
+This study	Fit 1	0.8	13	49.7	1.2	1	9	0	GH14G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH14G	pmagpy-3.16.0: demag_gui	GH14G2
+This study	Fit 1	0.1	9.4	53.1	1.5	1	7	0	GH14H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH14H	pmagpy-3.16.0: demag_gui	GH14H1
+This study	Fit 1	0.6	200.2	-43.5	0.7	1	11	0	GH15A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH15A	pmagpy-3.16.0: demag_gui	GH15A1
+This study	Fit 1	0.5	199.7	-46	0.9	1	6	0	GH15A2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH15A	pmagpy-3.16.0: demag_gui	GH15A2
+This study	Fit 1	0.1	195.2	-36.9	0.4	1	5	0	GH15B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH15B	pmagpy-3.16.0: demag_gui	GH15B1
+This study	Fit 1	0.5	199.5	-41.7	0.5	1	9	0	GH15C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH15C	pmagpy-3.16.0: demag_gui	GH15C1
+This study	Fit 1	0.7	189.7	-46.2	0.6	1	5	0	GH15C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH15C	pmagpy-3.16.0: demag_gui	GH15C2
+This study	Fit 1	0.4	194.7	-45.6	0.7	1	11	0	GH15D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH15D	pmagpy-3.16.0: demag_gui	GH15D1
+This study	Fit 1	0.8	193.3	-42.5	0.9	1	11	0	GH15F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH15F	pmagpy-3.16.0: demag_gui	GH15F1
+This study	Fit 1	1.2	0.6	58.4	0.9	1	19	0	GH16B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH16B	pmagpy-3.16.0: demag_gui	GH16B2
+This study	Fit 1	0.2	12.9	59.9	0.4	1	10	0	GH16C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH16C	pmagpy-3.16.0: demag_gui	GH16C2
+This study	Fit 1	0.1	3.4	57.9	0.9	1	11	0	GH16D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH16D	pmagpy-3.16.0: demag_gui	GH16D2
+This study									GH16E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH16E		GH16E1
+This study									GH16F1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH16F		GH16F1
+This study	Fit 1	0.5	353.8	59	2.7	1	9	0	GH16G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH16G	pmagpy-3.16.0: demag_gui	GH16G1
+This study	Fit 1	1.1	1.8	56.4	0.7	1	11	0	GH16G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH16G	pmagpy-3.16.0: demag_gui	GH16G2
+This study	Fit 1	1.3	3.8	54.6	0.7	1	6	0	GH16H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH16H	pmagpy-3.16.0: demag_gui	GH16H2
+This study	Fit 1	1.3	16	47	0.9	1	12	0	GH17A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH17A	pmagpy-3.16.0: demag_gui	GH17A1
+This study	Fit 1	1.5	11.4	46.1	1.6	1	10	0	GH17B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH17B	pmagpy-3.16.0: demag_gui	GH17B2
+This study	Fit 1	1	13.2	51.2	1.3	1	10	0	GH17D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH17D	pmagpy-3.16.0: demag_gui	GH17D2
+This study	Fit 1	0.4	9	44.4	1.6	1	12	0	GH17E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH17E	pmagpy-3.16.0: demag_gui	GH17E1
+This study	Fit 1	1.8	359.2	44.2	1.3	1	10	0	GH17E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH17E	pmagpy-3.16.0: demag_gui	GH17E2
+This study	Fit 1	1.6	5.9	45.1	0.8	1	6	0	GH17F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH17F	pmagpy-3.16.0: demag_gui	GH17F2
+This study	Fit 1	3.8	11.9	44.2	3.9	1	12	0	GH17G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH17G	pmagpy-3.16.0: demag_gui	GH17G1
+This study	Fit 1	0.7	10.6	54.3	1.2	1	6	0	GH17H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH17H	pmagpy-3.16.0: demag_gui	GH17H2
+This study	Fit 1	0.7	180.4	-40.4	0.9	1	18	0	GH18A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH18A	pmagpy-3.16.0: demag_gui	GH18A1
+This study	Fit 1	0.1	178.4	-41.6	1	1	9	0	GH18B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH18B	pmagpy-3.16.0: demag_gui	GH18B1
+This study	Fit 1	0.6	185.5	-53.2	0.5	1	10	0	GH18C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH18C	pmagpy-3.16.0: demag_gui	GH18C1
+This study	Fit 1	0.1	178	-46.4	1.9	1	10	0	GH18D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	573	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH18D	pmagpy-3.16.0: demag_gui	GH18D1
+This study	Fit 1	0.4	183.9	-55.2	0.5	1	10	0	GH18E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH18E	pmagpy-3.16.0: demag_gui	GH18E1
+This study	Fit 1	1.2	189.8	-47.9	1.2	1	9	0	GH18G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH18G	pmagpy-3.16.0: demag_gui	GH18G1
+This study	Fit 1	0.5	188.1	-48.6	1.5	1	8	0	GH18H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH18H	pmagpy-3.16.0: demag_gui	GH18H1
+This study	Fit 1	1.1	187.6	-48.6	1.6	1	11	0	GH18I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH18I	pmagpy-3.16.0: demag_gui	GH18I1
+This study	Fit 1	1.2	177	-54.6	1	1	11	0	GH19A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH19A	pmagpy-3.16.0: demag_gui	GH19A1
+This study	Fit 1	1.6	180.9	-53.6	0.9	1	11	0	GH19B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH19B	pmagpy-3.16.0: demag_gui	GH19B1
+This study	Fit 1	2.4	178	-52.5	0.9	1	7	0	GH19C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH19C	pmagpy-3.16.0: demag_gui	GH19C1
+This study									GH19E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH19E		GH19E1
+This study	Fit 1	1.1	182.1	-50.2	0.8	1	8	0	GH19F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH19F	pmagpy-3.16.0: demag_gui	GH19F1
+This study	Fit 1	3.9	186.7	-51.3	0.8	1	8	0	GH19G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH19G	pmagpy-3.16.0: demag_gui	GH19G1
+This study	Fit 1	1.4	180.6	-50.6	1.5	1	8	0	GH19H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH19H	pmagpy-3.16.0: demag_gui	GH19H1
+This study									GH20A1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH20A		GH20A1
+This study	Fit 1	3.9	357.7	56.8	1.1	1	12	0	GH20B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH20B	pmagpy-3.16.0: demag_gui	GH20B1
+This study	Fit 1	3	3.8	55	2.2	1	9	0	GH20C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH20C	pmagpy-3.16.0: demag_gui	GH20C1
+This study	Fit 1	1.9	3	52.2	0.8	1	10	0	GH20E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH20E	pmagpy-3.16.0: demag_gui	GH20E2
+This study	Fit 1	4.2	356.1	46.1	4.6	1	10	0	GH20F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	573	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH20F	pmagpy-3.16.0: demag_gui	GH20F1
+This study	Fit 1	1.9	2.2	48.2	1.4	1	9	0	GH20F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH20F	pmagpy-3.16.0: demag_gui	GH20F2
+This study	Fit 1	2.8	6.3	56.4	1.3	1	5	0	GH20G2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH20G	pmagpy-3.16.0: demag_gui	GH20G2
+This study	Fit 1	1.3	358.9	53.9	0.8	1	5	0	GH20H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH20H	pmagpy-3.16.0: demag_gui	GH20H2
+This study	Fit 1	0.3	176	-37.9	0.7	1	5	0	GH21A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH21A	pmagpy-3.16.0: demag_gui	GH21A1
+This study	Fit 1	0.7	179.4	-38.2	0.8	1	9	0	GH21A2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH21A	pmagpy-3.16.0: demag_gui	GH21A2
+This study	Fit 1	0.9	180.7	-39	0.7	1	12	0	GH21B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH21B	pmagpy-3.16.0: demag_gui	GH21B2
+This study	Fit 1	0.5	180.7	-42.7	1.1	1	12	0	GH21C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH21C	pmagpy-3.16.0: demag_gui	GH21C1
+This study	Fit 1	0.2	172.6	-42.1	1	1	12	0	GH21D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH21D	pmagpy-3.16.0: demag_gui	GH21D1
+This study	Fit 1	0.5	179.3	-36.6	1.3	1	10	0	GH21E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	573	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH21E	pmagpy-3.16.0: demag_gui	GH21E1
+This study	Fit 1	0.8	182.1	-36.1	1	1	12	0	GH21E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH21E	pmagpy-3.16.0: demag_gui	GH21E2
+This study	Fit 1	1.3	169.5	-49.6	2.8	1	9	0	GH22C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH22C	pmagpy-3.16.0: demag_gui	GH22C1
+This study	Fit 1	2.9	176.1	-55	3.1	1	5	0	GH22D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH22D	pmagpy-3.16.0: demag_gui	GH22D1
+This study	Fit 1	2.3	169.4	-57	2.5	1	6	0	GH22D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	7.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH22D	pmagpy-3.16.0: demag_gui	GH22D2
+This study	Fit 1	0.8	160.6	-51.4	0.4	1	9	0	GH22E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH22E	pmagpy-3.16.0: demag_gui	GH22E1
+This study	Fit 1	0.3	160	-51.5	0.8	1	11	0	GH22F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH22F	pmagpy-3.16.0: demag_gui	GH22F2
+This study	Fit 1	0.4	162	-59.8	0.3	1	12	0	GH22G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH22G	pmagpy-3.16.0: demag_gui	GH22G1
+This study	Fit 1	0.2	163.1	-61.8	0.9	1	10	0	GH22H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	573	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH22H	pmagpy-3.16.0: demag_gui	GH22H1
+This study	Fit 1	0.5	163.1	-58.5	0.3	1	12	0	GH22H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH22H	pmagpy-3.16.0: demag_gui	GH22H2
+This study	Fit 1	0.9	23.6	55.9	0.9	1	11	0	GH23B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH23B	pmagpy-3.16.0: demag_gui	GH23B1
+This study	Fit 1	1.2	29.5	49.6	1	1	7	0	GH23C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH23C	pmagpy-3.16.0: demag_gui	GH23C1
+This study	Fit 1	1.2	32.6	48.6	2.1	1	9	0	GH23D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH23D	pmagpy-3.16.0: demag_gui	GH23D1
+This study	Fit 1	1.5	34.3	48.9	1.3	1	8	0	GH23D2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH23D	pmagpy-3.16.0: demag_gui	GH23D2
+This study	Fit 1	0.6	36.6	58.1	0.8	1	8	0	GH23E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH23E	pmagpy-3.16.0: demag_gui	GH23E1
+This study	Fit 1	0.8	31.7	47.2	1.1	1	7	0	GH23F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH23F	pmagpy-3.16.0: demag_gui	GH23F1
+This study	Fit 1	1.1	27	52.6	0.9	1	8	0	GH23I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH23I	pmagpy-3.16.0: demag_gui	GH23I1
+This study	Fit 1	4	36.5	36.5	3.7	1	10	0	GH24B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH24B	pmagpy-3.16.0: demag_gui	GH24B1
+This study	Fit 1	3.2	34.2	40.3	4.2	1	8	0	GH24C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH24C	pmagpy-3.16.0: demag_gui	GH24C1
+This study	Fit 1	3.3	37	39.6	3.5	1	7	0	GH24D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH24D	pmagpy-3.16.0: demag_gui	GH24D1
+This study	Fit 1	4.4	25.2	35.2	2.7	1	5	0	GH24E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH24E	pmagpy-3.16.0: demag_gui	GH24E1
+This study	Fit 1	1.5	25.9	46.9	2.7	1	8	0	GH24F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH24F	pmagpy-3.16.0: demag_gui	GH24F1
+This study	Fit 1	1.8	27.4	47.3	1.1	1	10	0	GH24F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH24F	pmagpy-3.16.0: demag_gui	GH24F2
+This study	Fit 1	3	29.3	49.5	3.3	1	9	0	GH24G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH24G	pmagpy-3.16.0: demag_gui	GH24G1
+This study									GH24H1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH24H		GH24H1
+This study	Fit 1	0.2	38	48	0.5	1	8	0	GH24I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH24I	pmagpy-3.16.0: demag_gui	GH24I1
+This study	Fit 1	3	124.8	72.4	2.8	1	8	0	GH25A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	5.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH25A	pmagpy-3.16.0: demag_gui	GH25A1
+This study	Fit 1	4.3	343.8	69.5	1.9	1	12	0	GH25B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH25B	pmagpy-3.16.0: demag_gui	GH25B2
+This study	Fit 1	1	357.1	59	1.9	1	10	0	GH25C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH25C	pmagpy-3.16.0: demag_gui	GH25C1
+This study	Fit 1	0.1	353	56.8	2.5	1	9	0	GH25D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH25D	pmagpy-3.16.0: demag_gui	GH25D1
+This study	Fit 1	0.9	327.9	48.1	1.9	1	5	0	GH25E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH25E	pmagpy-3.16.0: demag_gui	GH25E1
+This study	Fit 1	0.7	329.5	54.6	1	1	11	0	GH25E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH25E	pmagpy-3.16.0: demag_gui	GH25E2
+This study	Fit 1	0.8	272.4	51.4	0.5	1	5	0	GH25F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH25F	pmagpy-3.16.0: demag_gui	GH25F2
+This study	Fit 1	0.7	3.1	52.7	1	1	12	0	GH25I2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH25I	pmagpy-3.16.0: demag_gui	GH25I2
+This study									GH26A1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH26A		GH26A1
+This study	Fit 1	1.9	218	-57.9	1.9	1	10	0	GH26B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26B	pmagpy-3.16.0: demag_gui	GH26B1
+This study	Fit 1	0.9	219.1	-58.1	1.4	1	10	0	GH26C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	573	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH26C	pmagpy-3.16.0: demag_gui	GH26C1
+This study	Fit 1	1.8	199.1	-66.1	1.1	1	9	0	GH26D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH26D	pmagpy-3.16.0: demag_gui	GH26D1
+This study	Fit 1	1.3	229.7	-59.1	0.8	1	12	0	GH26E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26E	pmagpy-3.16.0: demag_gui	GH26E1
+This study	Fit 1	1.3	221.5	-57.2	1.3	1	7	0	GH26F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26F	pmagpy-3.16.0: demag_gui	GH26F1
+This study	Fit 1	2	221.4	-51	4.2	1	6	0	GH26G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26G	pmagpy-3.16.0: demag_gui	GH26G1
+This study	Fit 1	1.1	219.8	-56	1.3	1	6	0	GH26H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26H	pmagpy-3.16.0: demag_gui	GH26H1
+This study	Fit 1	1.2	215.9	-60.9	1.3	1	9	0	GH26I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26I	pmagpy-3.16.0: demag_gui	GH26I1
+This study	Fit 1	0.7	191.2	-61.2	1.9	1	9	0	GH26J1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH26J	pmagpy-3.16.0: demag_gui	GH26J1
+This study	Fit 1	1.9	191.8	-65.7	1.4	1	9	0	GH26K1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH26K	pmagpy-3.16.0: demag_gui	GH26K1
+This study	Fit 1	1.8	341.8	51.1	2.1	1	10	0	GH27A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH27A	pmagpy-3.16.0: demag_gui	GH27A1
+This study	Fit 1	2.6	354.7	52	1.3	1	7	0	GH27B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH27B	pmagpy-3.16.0: demag_gui	GH27B1
+This study	Fit 1	0.5	0.4	48.7	0.5	1	9	0	GH27B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH27B	pmagpy-3.16.0: demag_gui	GH27B2
+This study	Fit 1	2.1	0.5	39.4	3.7	1	6	0	GH27C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH27C	pmagpy-3.16.0: demag_gui	GH27C2
+This study	Fit 1	1.2	352.1	50.5	3	1	5	0	GH27D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	5.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH27D	pmagpy-3.16.0: demag_gui	GH27D1
+This study	Fit 1	1.4	353.5	49.3	1	1	6	0	GH27F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH27F	pmagpy-3.16.0: demag_gui	GH27F1
+This study	Fit 1	0.9	7.1	42.2	0.7	1	7	0	GH27G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.10E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH27G	pmagpy-3.16.0: demag_gui	GH27G1
+This study	Fit 1	1	357.3	40.5	1.9	1	9	0	GH27H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH27H	pmagpy-3.16.0: demag_gui	GH27H1
+This study	Fit 1	0.5	5.7	41	0.6	1	10	0	GH28A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH28A	pmagpy-3.16.0: demag_gui	GH28A1
+This study	Fit 1	0.7	4.7	40.8	0.8	1	12	0	GH28C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH28C	pmagpy-3.16.0: demag_gui	GH28C1
+This study	Fit 1	0.7	4.9	42.2	0.8	1	12	0	GH28E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH28E	pmagpy-3.16.0: demag_gui	GH28E1
+This study	Fit 1	0.9	4.8	45.9	0.9	1	12	0	GH28F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH28F	pmagpy-3.16.0: demag_gui	GH28F1
+This study	Fit 1	0.9	357.5	47.5	0.9	1	8	0	GH28G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH28G	pmagpy-3.16.0: demag_gui	GH28G1
+This study	Fit 1	1	1.4	46.9	1.3	1	12	0	GH28H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH28H	pmagpy-3.16.0: demag_gui	GH28H1
+This study									GH28I1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH28I		GH28I1
+This study	Fit 1	0.3	9.8	48	0.6	1	11	0	GH30A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH30A	pmagpy-3.16.0: demag_gui	GH30A1
+This study	Fit 1	0.5	9	45.8	0.4	1	5	0	GH30B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH30B	pmagpy-3.16.0: demag_gui	GH30B1
+This study	Fit 1	0.3	1.7	50.5	0.7	1	6	0	GH30C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH30C	pmagpy-3.16.0: demag_gui	GH30C1
+This study	Fit 1	0.9	2.4	54.5	1.3	1	5	0	GH30D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH30D	pmagpy-3.16.0: demag_gui	GH30D1
+This study	Fit 1	0.2	6.4	51.1	1.4	1	5	0	GH30E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH30E	pmagpy-3.16.0: demag_gui	GH30E1
+This study	Fit 1	1	1.8	56.7	0.8	1	6	0	GH30F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH30F	pmagpy-3.16.0: demag_gui	GH30F1
+This study	Fit 1	0.7	0.2	49.6	0.7	1	5	0	GH30G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH30G	pmagpy-3.16.0: demag_gui	GH30G1
+This study	Fit 1	0.9	0.1	50	0.8	1	6	0	GH30H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH30H	pmagpy-3.16.0: demag_gui	GH30H1
+This study	Fit 1	0.3	356.2	46.6	1.7	1	10	0	GH31A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH31A	pmagpy-3.16.0: demag_gui	GH31A1
+This study	Fit 1	3.3	0.3	47.4	4.5	1	9	0	GH31B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH31B	pmagpy-3.16.0: demag_gui	GH31B1
+This study	Fit 1	0.7	352.3	41.5	0.7	1	9	0	GH31C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH31C	pmagpy-3.16.0: demag_gui	GH31C1
+This study	Fit 1	0.9	348	37.1	1.3	1	9	0	GH31D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH31D	pmagpy-3.16.0: demag_gui	GH31D1
+This study	Fit 1	0.8	350.3	41.2	0.9	1	5	0	GH31E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH31E	pmagpy-3.16.0: demag_gui	GH31E1
+This study	Fit 1	0.1	349.3	44.2	0.4	1	6	0	GH31F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH31F	pmagpy-3.16.0: demag_gui	GH31F1
+This study	Fit 1	2.7	349.6	43.7	2.6	1	5	0	GH31H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH31H	pmagpy-3.16.0: demag_gui	GH31H1
+This study	Fit 1	0.4	356.2	42.1	0.4	1	6	0	GH31I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH31I	pmagpy-3.16.0: demag_gui	GH31I1
+This study	Fit 1	1.4	358.5	45.6	1.9	1	12	0	GH32A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH32A	pmagpy-3.16.0: demag_gui	GH32A1
+This study									GH32B1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH32B		GH32B1
+This study	Fit 1	2	264.6	42.4	2.6	1	6	0	GH32C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH32C	pmagpy-3.16.0: demag_gui	GH32C1
+This study	Fit 1	2.4	284.9	34.5	3.4	1	12	0	GH32C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH32C	pmagpy-3.16.0: demag_gui	GH32C2
+This study	Fit 1	1.2	352.5	46.3	3	1	10	0	GH32D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH32D	pmagpy-3.16.0: demag_gui	GH32D1
+This study	Fit 1	3.1	324.1	63.8	4.7	1	12	0	GH32E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH32E	pmagpy-3.16.0: demag_gui	GH32E1
+This study	Fit 1	3.8	359.1	44.9	2.6	1	9	0	GH32E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH32E	pmagpy-3.16.0: demag_gui	GH32E2
+This study	Fit 1	1.2	2.2	44.5	1.4	1	10	0	GH32F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH32F	pmagpy-3.16.0: demag_gui	GH32F1
+This study	Fit 1	1	356.1	55.5	0.7	1	6	0	GH32G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH32G	pmagpy-3.16.0: demag_gui	GH32G1
+This study	Fit 1	3.8	354.6	42	3	1	10	0	GH32H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH32H	pmagpy-3.16.0: demag_gui	GH32H1
+This study	Fit 1	6.4	1.8	56.9	1.5	1	3	0	GH33A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	5.00E-02	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH33A	pmagpy-3.16.0: demag_gui	GH33A1
+This study	Fit 1	3.8	349.4	59.2	3	1	4	0	GH33B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	813	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH33B	pmagpy-3.16.0: demag_gui	GH33B1
+This study	Fit 1	1.7	3.3	58.1	1.7	1	9	0	GH33C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH33C	pmagpy-3.16.0: demag_gui	GH33C1
+This study	Fit 1	2.4	351.5	62.6	1.6	1	3	0	GH33C2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	833	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH33C	pmagpy-3.16.0: demag_gui	GH33C2
+This study	Fit 1	2.3	16.2	60.9	2.2	1	7	0	GH33D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH33D	pmagpy-3.16.0: demag_gui	GH33D1
+This study	Fit 1	0.9	4.6	68.8	0.6	1	10	0	GH33E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH33E	pmagpy-3.16.0: demag_gui	GH33E1
+This study	Fit 1	1.1	13.9	54.7	0.7	1	5	0	GH33H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH33H	pmagpy-3.16.0: demag_gui	GH33H1
+This study	Fit 1	0.4	22.8	56.1	0.6	1	6	0	GH33I1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH33I	pmagpy-3.16.0: demag_gui	GH33I1
+This study									GH33I2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH33I		GH33I2
+This study	Fit 1	0.2	19.1	57.5	0.9	1	6	0	GH33J1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH33J	pmagpy-3.16.0: demag_gui	GH33J1
+This study	Fit 1	0.7	18.1	59.5	2.2	1	10	0	GH34A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH34A	pmagpy-3.16.0: demag_gui	GH34A1
+This study	Fit 1	0.3	18.8	59.6	0.4	1	6	0	GH34B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH34B	pmagpy-3.16.0: demag_gui	GH34B1
+This study	Fit 1	3.1	14.7	56.1	0.8	1	5	0	GH34C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH34C	pmagpy-3.16.0: demag_gui	GH34C1
+This study	Fit 1	1.5	22.4	60	1	1	5	0	GH34D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH34D	pmagpy-3.16.0: demag_gui	GH34D1
+This study									GH34E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH34E		GH34E1
+This study	Fit 1	0.7	22.8	58.1	0.4	1	6	0	GH34F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH34F	pmagpy-3.16.0: demag_gui	GH34F1
+This study	Fit 1	0.6	18.9	61.4	0.7	1	6	0	GH34G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH34G	pmagpy-3.16.0: demag_gui	GH34G1
+This study	Fit 1	0.1	12.8	63.3	0.7	1	5	0	GH34H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH34H	pmagpy-3.16.0: demag_gui	GH34H1
+This study	Fit 1	0.9	0.6	58.2	0.6	1	11	0	GH35A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH35A	pmagpy-3.16.0: demag_gui	GH35A1
+This study	Fit 1	0.4	359.6	59.9	0.1	1	5	0	GH35B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH35B	pmagpy-3.16.0: demag_gui	GH35B1
+This study	Fit 1	0.8	9.1	66.4	0.7	1	6	0	GH35C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH35C	pmagpy-3.16.0: demag_gui	GH35C1
+This study	Fit 1	0.4	7.5	63.5	0.4	1	5	0	GH35E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH35E	pmagpy-3.16.0: demag_gui	GH35E1
+This study	Fit 1	0.6	3.5	62.3	0.5	1	6	0	GH35F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH35F	pmagpy-3.16.0: demag_gui	GH35F1
+This study	Fit 1	0.6	359.5	63.1	0.6	1	6	0	GH35G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH35G	pmagpy-3.16.0: demag_gui	GH35G1
+This study	Fit 1	0.3	0.2	63.1	0.4	1	5	0	GH35H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH35H	pmagpy-3.16.0: demag_gui	GH35H1
+This study	Fit 1	1	358.2	60.6	1.3	1	5	0	GH35H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH35H	pmagpy-3.16.0: demag_gui	GH35H2
+This study									GH36A1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH36A		GH36A1
+This study									GH36B1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH36B		GH36B1
+This study									GH36C1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH36C		GH36C1
+This study	Fit 1	11	321.5	31.6	2.2	1	5	0	GH36D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH36D	pmagpy-3.16.0: demag_gui	GH36D1
+This study	Fit 1	1.6	309.3	20	1.3	1	6	0	GH36E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH36E	pmagpy-3.16.0: demag_gui	GH36E1
+This study	Fit 1	2.4	322.9	25.3	2.7	1	6	0	GH36E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH36E	pmagpy-3.16.0: demag_gui	GH36E2
+This study	Fit 1	1.8	318.7	17.5	2.5	1	4	0	GH36F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH36F	pmagpy-3.16.0: demag_gui	GH36F1
+This study	Fit 1	0.9	340.2	21.5	1.6	1	11	0	GH36G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	523	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH36G	pmagpy-3.16.0: demag_gui	GH36G1
+This study	Fit 1	3.4	358	50.1	0.3	1	5	0	GH36H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH36H	pmagpy-3.16.0: demag_gui	GH36H1
+This study	Fit 1	1.3	356.5	40.1	1.1	1	12	0	GH37A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH37A	pmagpy-3.16.0: demag_gui	GH37A1
+This study	Fit 1	0.8	348.5	43.6	0.5	1	5	0	GH37B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH37B	pmagpy-3.16.0: demag_gui	GH37B1
+This study	Fit 1	0.3	351.5	40.5	0.5	1	6	0	GH37C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH37C	pmagpy-3.16.0: demag_gui	GH37C1
+This study	Fit 1	1	347.8	44.9	0.4	1	6	0	GH37D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH37D	pmagpy-3.16.0: demag_gui	GH37D1
+This study	Fit 1	0.5	347.2	40.8	1.2	1	5	0	GH37E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH37E	pmagpy-3.16.0: demag_gui	GH37E1
+This study	Fit 1	0.8	348.4	38.1	0.3	1	5	0	GH37F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH37F	pmagpy-3.16.0: demag_gui	GH37F1
+This study	Fit 1	2.3	350.6	40.6	2.6	1	5	0	GH37G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH37G	pmagpy-3.16.0: demag_gui	GH37G1
+This study	Fit 1	1.1	352.3	37.4	0.6	1	5	0	GH37H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH37H	pmagpy-3.16.0: demag_gui	GH37H1
+This study	Fit 1	0.6	12.9	47.6	1.1	1	6	0	GH38A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH38A	pmagpy-3.16.0: demag_gui	GH38A1
+This study	Fit 1	1	11.6	47.5	1.2	1	11	0	GH38B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH38B	pmagpy-3.16.0: demag_gui	GH38B1
+This study	Fit 1	1	8.1	45.5	1.5	1	6	0	GH38C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH38C	pmagpy-3.16.0: demag_gui	GH38C1
+This study	Fit 1	1	3.6	47.5	1.8	1	8	0	GH38D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH38D	pmagpy-3.16.0: demag_gui	GH38D1
+This study	Fit 1	1.9	6.9	43.1	2	1	9	0	GH38F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH38F	pmagpy-3.16.0: demag_gui	GH38F1
+This study	Fit 1	0.5	10.6	46.9	1	1	5	0	GH38F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH38F	pmagpy-3.16.0: demag_gui	GH38F2
+This study	Fit 1	0.9	10.1	48.4	2.2	1	6	0	GH38G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH38G	pmagpy-3.16.0: demag_gui	GH38G1
+This study	Fit 1	0.7	8.9	51	2.1	1	6	0	GH38H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH38H	pmagpy-3.16.0: demag_gui	GH38H1
+This study	Fit 1	0.9	10.2	55.6	0.8	1	11	0	GH39A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH39A	pmagpy-3.16.0: demag_gui	GH39A1
+This study	Fit 1	0.5	17	57.5	2.8	1	9	0	GH39B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH39B	pmagpy-3.16.0: demag_gui	GH39B1
+This study	Fit 1	0.9	16.5	64.2	0.9	1	6	0	GH39C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH39C	pmagpy-3.16.0: demag_gui	GH39C1
+This study	Fit 1	2.3	26.5	59.2	2.4	1	5	0	GH39D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH39D	pmagpy-3.16.0: demag_gui	GH39D1
+This study	Fit 1	0.8	14.7	60.8	1.3	1	6	0	GH39E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH39E	pmagpy-3.16.0: demag_gui	GH39E1
+This study	Fit 1	0.2	16	58.2	1.2	1	9	0	GH39F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH39F	pmagpy-3.16.0: demag_gui	GH39F1
+This study	Fit 1	1.1	20.7	61	0.8	1	6	0	GH39G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH39G	pmagpy-3.16.0: demag_gui	GH39G1
+This study									GH39H1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH39H		GH39H1
+This study	Fit 1	0.5	354.9	56.1	0.5	1	9	0	GH40A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH40A	pmagpy-3.16.0: demag_gui	GH40A1
+This study	Fit 1	0.6	0.9	61.6	0.9	1	5	0	GH40B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH40B	pmagpy-3.16.0: demag_gui	GH40B1
+This study	Fit 1	0.5	355.1	60.9	0.2	1	5	0	GH40B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH40B	pmagpy-3.16.0: demag_gui	GH40B2
+This study									GH40C1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH40C		GH40C1
+This study	Fit 1	0.6	357	50.6	0.5	1	6	0	GH40D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH40D	pmagpy-3.16.0: demag_gui	GH40D1
+This study	Fit 1	0.4	356.5	59.7	0.3	1	5	0	GH40F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH40F	pmagpy-3.16.0: demag_gui	GH40F1
+This study	Fit 1	0.4	350.3	59.2	0.4	1	9	0	GH40G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH40G	pmagpy-3.16.0: demag_gui	GH40G1
+This study	Fit 1	0.5	2.9	52.8	0.4	1	5	0	GH40H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH40H	pmagpy-3.16.0: demag_gui	GH40H1
+This study	Fit 1	4	25	61.9	1.5	1	11	0	GH41A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH41A	pmagpy-3.16.0: demag_gui	GH41A1
+This study									GH41B1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH41B		GH41B1
+This study	Fit 1	1.6	15.3	52	1.3	1	9	0	GH41D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH41D	pmagpy-3.16.0: demag_gui	GH41D1
+This study	Fit 1	0.5	18.4	53.3	2	1	8	0	GH41E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH41E	pmagpy-3.16.0: demag_gui	GH41E1
+This study	Fit 1	1.8	19.5	53.6	1.1	1	9	0	GH41E2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH41E	pmagpy-3.16.0: demag_gui	GH41E2
+This study	Fit 1	1.2	7.8	52.6	1.3	1	10	0	GH41F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH41F	pmagpy-3.16.0: demag_gui	GH41F1
+This study	Fit 1	3.1	26.7	54.3	4.5	1	9	0	GH41G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH41G	pmagpy-3.16.0: demag_gui	GH41G1
+This study	Fit 1	1.8	5.9	41.5	2.3	1	4	0	GH41H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH41H	pmagpy-3.16.0: demag_gui	GH41H1
+This study	Fit 1	0.6	2.1	48.5	0.7	1	11	0	GH42A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH42A	pmagpy-3.16.0: demag_gui	GH42A1
+This study	Fit 1	2.7	5.8	49.6	1.1	1	6	0	GH42B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH42B	pmagpy-3.16.0: demag_gui	GH42B1
+This study	Fit 1	0.4	7.5	48	1.4	1	8	0	GH42C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH42C	pmagpy-3.16.0: demag_gui	GH42C1
+This study	Fit 1	0.6	0.7	56.8	1.9	1	8	0	GH42D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH42D	pmagpy-3.16.0: demag_gui	GH42D1
+This study	Fit 1	0.3	5.3	52.6	1.2	1	8	0	GH42E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH42E	pmagpy-3.16.0: demag_gui	GH42E1
+This study	Fit 1	0.4	6.1	50.3	1	1	8	0	GH42G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH42G	pmagpy-3.16.0: demag_gui	GH42G1
+This study	Fit 1	2.7	357.7	47	4.1	1	7	0	GH42H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH42H	pmagpy-3.16.0: demag_gui	GH42H1
+This study	Fit 1	1	355.2	46.1	0.7	1	7	0	GH42H2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH42H	pmagpy-3.16.0: demag_gui	GH42H2
+This study	Fit 1	1.3	20	38.4	2.8	1	12	0	GH43B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH43B	pmagpy-3.16.0: demag_gui	GH43B1
+This study									GH43C1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH43C		GH43C1
+This study	Fit 1	0.8	21	51.5	1.8	1	6	0	GH43D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH43D	pmagpy-3.16.0: demag_gui	GH43D1
+This study	Fit 1	0.8	15.7	48.4	1.7	1	6	0	GH43E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH43E	pmagpy-3.16.0: demag_gui	GH43E1
+This study	Fit 1	4.8	28.6	53.6	4	1	9	0	GH43F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	623	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH43F	pmagpy-3.16.0: demag_gui	GH43F1
+This study	Fit 1	3.2	18.8	55.2	2.3	1	6	0	GH43F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH43F	pmagpy-3.16.0: demag_gui	GH43F2
+This study	Fit 1	0.8	17.4	59.1	1.5	1	6	0	GH43G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH43G	pmagpy-3.16.0: demag_gui	GH43G1
+This study	Fit 1	1.6	18.2	51.3	1.8	1	6	0	GH43H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH43H	pmagpy-3.16.0: demag_gui	GH43H1
+This study	Fit 1	4.1	227.5	-58.2	1	1	9	0	GH44A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH44A	pmagpy-3.16.0: demag_gui	GH44A1
+This study	Fit 1	2.3	232.6	-58.9	0.8	1	4	0	GH44B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.00E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH44B	pmagpy-3.16.0: demag_gui	GH44B1
+This study									GH44B2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH44B		GH44B2
+This study	Fit 1	4.1	224.4	-62.3	2.9	1	7	0	GH44C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	5.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH44C	pmagpy-3.16.0: demag_gui	GH44C1
+This study									GH44D1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH44D		GH44D1
+This study	Fit 1	2.4	229.9	-56.7	1.6	1	6	0	GH44E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH44E	pmagpy-3.16.0: demag_gui	GH44E1
+This study									GH44E2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH44E		GH44E2
+This study	Fit 1	0.9	237.4	-53.4	1.1	1	5	0	GH44F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH44F	pmagpy-3.16.0: demag_gui	GH44F1
+This study									GH44G1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH44G		GH44G1
+This study									GH44H1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH44H		GH44H1
+This study	Fit 1	2.7	27	44	2	1	12	0	GH45A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH45A	pmagpy-3.16.0: demag_gui	GH45A1
+This study	Fit 1	1.7	25.5	49.6	1.9	1	6	0	GH45B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH45B	pmagpy-3.16.0: demag_gui	GH45B1
+This study	Fit 1	2.3	26.3	47.2	1.2	1	6	0	GH45C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH45C	pmagpy-3.16.0: demag_gui	GH45C1
+This study	Fit 1	4.4	35	45.4	2.8	1	6	0	GH45D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH45D	pmagpy-3.16.0: demag_gui	GH45D1
+This study									GH45E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH45E		GH45E1
+This study	Fit 1	0.6	38.4	54.2	1.3	1	8	0	GH45F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH45F	pmagpy-3.16.0: demag_gui	GH45F1
+This study	Fit 1	1.1	39.8	51.2	1.1	1	8	0	GH45G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH45G	pmagpy-3.16.0: demag_gui	GH45G1
+This study	Fit 1	2.3	29.9	51	3.6	1	6	0	GH45H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH45H	pmagpy-3.16.0: demag_gui	GH45H1
+This study	Fit 1	2.5	39.2	47.1	2.2	1	7	0	GH46A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	0.00E+00	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH46A	pmagpy-3.16.0: demag_gui	GH46A1
+This study	Fit 1	1.6	32.5	44.6	2.1	1	12	0	GH46B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH46B	pmagpy-3.16.0: demag_gui	GH46B1
+This study									GH46C1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH46C		GH46C1
+This study									GH46C2	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH46C		GH46C2
+This study	Fit 1	2.1	18	44.9	0.7	1	7	0	GH46D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH46D	pmagpy-3.16.0: demag_gui	GH46D1
+This study	Fit 1	1.4	19.4	47.5	3.7	1	6	0	GH46E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH46E	pmagpy-3.16.0: demag_gui	GH46E1
+This study	Fit 1	2.3	17.5	48.6	3.1	1	14	0	GH46F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	273	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH46F	pmagpy-3.16.0: demag_gui	GH46F1
+This study	Fit 1	0.8	17.3	45.7	1.2	1	7	0	GH46H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH46H	pmagpy-3.16.0: demag_gui	GH46H1
+This study									GH47A1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH47A		GH47A1
+This study	Fit 1	1.6	148.5	-55.6	1	1	11	0	GH47B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH47B	pmagpy-3.16.0: demag_gui	GH47B1
+This study	Fit 1	0.9	152.4	-51.8	1.3	1	6	0	GH47C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH47C	pmagpy-3.16.0: demag_gui	GH47C1
+This study	Fit 1	0.8	153.5	-57.7	0.5	1	6	0	GH47D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH47D	pmagpy-3.16.0: demag_gui	GH47D1
+This study	Fit 1	1	154.7	-49.2	0.8	1	6	0	GH47E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH47E	pmagpy-3.16.0: demag_gui	GH47E1
+This study	Fit 1	0.3	148.4	-54.8	0.7	1	6	0	GH47F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	753	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH47F	pmagpy-3.16.0: demag_gui	GH47F1
+This study	Fit 1	1.3	152.7	-51.3	0.7	1	6	0	GH47F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH47F	pmagpy-3.16.0: demag_gui	GH47F2
+This study	Fit 1	0.8	149.9	-51	0.5	1	6	0	GH47H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH47H	pmagpy-3.16.0: demag_gui	GH47H1
+This study	Fit 1	1.5	131	-60.9	1.1	1	12	0	GH48A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48A	pmagpy-3.16.0: demag_gui	GH48A1
+This study	Fit 1	0.4	161	-66.8	0.3	1	8	0	GH48B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH48B	pmagpy-3.16.0: demag_gui	GH48B1
+This study	Fit 1	0.5	150.6	-69.5	0.4	1	6	0	GH48B2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48B	pmagpy-3.16.0: demag_gui	GH48B2
+This study	Fit 1	1.5	141.9	-63	1	1	7	0	GH48C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48C	pmagpy-3.16.0: demag_gui	GH48C1
+This study	Fit 1	1.2	147.7	-64.1	3.6	1	7	0	GH48D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH48D	pmagpy-3.16.0: demag_gui	GH48D1
+This study	Fit 1	1.1	144.3	-66.2	1	1	6	0	GH48E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48E	pmagpy-3.16.0: demag_gui	GH48E1
+This study	Fit 1	0.3	139.9	-63.9	1.1	1	7	0	GH48F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48F	pmagpy-3.16.0: demag_gui	GH48F1
+This study	Fit 1	0.6	142	-66.2	1.1	1	7	0	GH48G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48G	pmagpy-3.16.0: demag_gui	GH48G1
+This study	Fit 1	3.8	144.6	-63.9	0.6	1	5	0	GH48H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH48H	pmagpy-3.16.0: demag_gui	GH48H1
+This study	Fit 1	1.3	181.4	-61.7	1.6	1	10	0	GH49A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH49A	pmagpy-3.16.0: demag_gui	GH49A1
+This study	Fit 1	2	173.6	-60.3	0.8	1	6	0	GH49B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH49B	pmagpy-3.16.0: demag_gui	GH49B1
+This study	Fit 1	3	187.3	-56.1	2.9	1	7	0	GH49C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH49C	pmagpy-3.16.0: demag_gui	GH49C1
+This study	Fit 1	1.5	170.9	-57.1	0.9	1	5	0	GH49D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH49D	pmagpy-3.16.0: demag_gui	GH49D1
+This study									GH49F1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH49F		GH49F1
+This study	Fit 1	1.1	171.7	-60.1	0.9	1	6	0	GH49F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH49F	pmagpy-3.16.0: demag_gui	GH49F2
+This study	Fit 1	0.6	169.8	-51.4	0.4	1	7	0	GH49G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH49G	pmagpy-3.16.0: demag_gui	GH49G1
+This study	Fit 1	0.3	171.6	-55.2	0.5	1	6	0	GH49H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH49H	pmagpy-3.16.0: demag_gui	GH49H1
+This study	Fit 1	1.2	166.4	-25.4	2.5	1	10	0	GH50A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH50A	pmagpy-3.16.0: demag_gui	GH50A1
+This study	Fit 1	0.8	162.5	-28.1	1.3	1	5	0	GH50B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH50B	pmagpy-3.16.0: demag_gui	GH50B1
+This study	Fit 1	0.1	163.8	-31	0.7	1	6	0	GH50C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH50C	pmagpy-3.16.0: demag_gui	GH50C1
+This study	Fit 1	0.5	167	-31	0.8	1	4	0	GH50D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	813	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH50D	pmagpy-3.16.0: demag_gui	GH50D1
+This study	Fit 1	0.9	162.6	-24.7	1.8	1	5	0	GH50F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	783	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH50F	pmagpy-3.16.0: demag_gui	GH50F1
+This study	Fit 1	0.5	167.2	-34.1	0.9	1	6	0	GH50F2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH50F	pmagpy-3.16.0: demag_gui	GH50F2
+This study	Fit 1	1.2	168	-29.5	1.1	1	6	0	GH50G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH50G	pmagpy-3.16.0: demag_gui	GH50G1
+This study	Fit 1	0.6	163.7	-34.5	0.6	1	6	0	GH50H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH50H	pmagpy-3.16.0: demag_gui	GH50H1
+This study	Fit 1	3.3	133.7	-27.4	2.9	1	7	0	GH51A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH51A	pmagpy-3.16.0: demag_gui	GH51A1
+This study	Fit 1	4.6	93	40.4	3.8	1	5	0	GH51A2	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	5.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH51A	pmagpy-3.16.0: demag_gui	GH51A2
+This study									GH51B1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH51B		GH51B1
+This study									GH51C1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH51C		GH51C1
+This study									GH51E1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH51E		GH51E1
+This study									GH51F1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH51F		GH51F1
+This study	Fit 1	3.5	166.2	-29.3	3.5	1	7	0	GH51G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	713	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH51G	pmagpy-3.16.0: demag_gui	GH51G1
+This study									GH51H1	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	GH51H		GH51H1
+This study	Fit 1	0.4	163.6	-34.8	0.8	1	12	0	GH52A1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH52A	pmagpy-3.16.0: demag_gui	GH52A1
+This study	Fit 1	1	153.6	-31.8	1	1	12	0	GH52B1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	473	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH52B	pmagpy-3.16.0: demag_gui	GH52B1
+This study	Fit 1	0.5	158.6	-35.3	0.9	1	7	0	GH52C1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH52C	pmagpy-3.16.0: demag_gui	GH52C1
+This study	Fit 1	0.1	160.8	-32.3	0.4	1	7	0	GH52D1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH52D	pmagpy-3.16.0: demag_gui	GH52D1
+This study	Fit 1	2	167	-41.9	2.5	1	5	0	GH52E1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH52E	pmagpy-3.16.0: demag_gui	GH52E1
+This study	Fit 1	3.3	158.4	-29.1	3	1	6	0	GH52F1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH52F	pmagpy-3.16.0: demag_gui	GH52F1
+This study	Fit 1	0.3	162.2	-33.7	0.8	1	8	0	GH52G1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	873	673	K	LP-DIR-T:DE-BFL:DA-DIR-GEO	g	GH52G	pmagpy-3.16.0: demag_gui	GH52G1
+This study	Fit 1	0.2	161.9	-34.1	1	1	7	0	GH52H1	Extrusive	Lava Flow	HUJI-2G	u	Basaltic Lava	1.20E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	GH52H	pmagpy-3.16.0: demag_gui	GH52H1
+This study	Fit 1	0.8	162.4	-58	0.5	1	7	0	af1-1a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af1-1	pmagpy-3.16.0: demag_gui	af1-1a
+This study	Fit 1	0.7	162.1	-56	0.4	1	4	0	af1-2a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af1-2	pmagpy-3.16.0: demag_gui	af1-2a
+This study									af1-3a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af1-3		af1-3a
+This study	Fit 1	0.8	161.4	-53.2	0.9	1	4	0	af1-4a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af1-4	pmagpy-3.16.0: demag_gui	af1-4a
+This study	Fit 1	0.6	153.3	-52.9	0.4	1	4	0	af1-5a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af1-5	pmagpy-3.16.0: demag_gui	af1-5a
+This study	Fit 1	0.7	161.3	-50.6	0.9	1	4	0	af1-6a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af1-6	pmagpy-3.16.0: demag_gui	af1-6a
+This study	Fit 1	1.1	155.9	-57.8	0.7	1	6	0	af2-19a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af2-19	pmagpy-3.16.0: demag_gui	af2-19a
+This study	Fit 1	0.1	157.7	-55.4	0.4	1	7	0	af2-20a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af2-20	pmagpy-3.16.0: demag_gui	af2-20a
+This study									af2-21a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af2-21		af2-21a
+This study									af2-22a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af2-22		af2-22a
+This study									af2-23a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af2-23		af2-23a
+This study									af2-24a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af2-24		af2-24a
+This study	Fit 1	1	151.2	-56.7	0.5	1	7	0	af3-13a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af3-13	pmagpy-3.16.0: demag_gui	af3-13a
+This study	Fit 1	0.4	151.7	-54	0.4	1	7	0	af3-14a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af3-14	pmagpy-3.16.0: demag_gui	af3-14a
+This study									af3-15a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af3-15		af3-15a
+This study									af3-16a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af3-16		af3-16a
+This study									af3-17a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af3-17		af3-17a
+This study									af3-18a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af3-18		af3-18a
+This study									af4-10a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af4-10		af4-10a
+This study									af4-11a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af4-11		af4-11a
+This study									af4-12a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af4-12		af4-12a
+This study	Fit 1	1.1	151.4	-51.6	0.7	1	7	0	af4-7a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af4-7	pmagpy-3.16.0: demag_gui	af4-7a
+This study	Fit 1	0.6	154.6	-52.8	0.7	1	7	0	af4-8a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af4-8	pmagpy-3.16.0: demag_gui	af4-8a
+This study									af4-9a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af4-9		af4-9a
+This study	Fit 1	0.4	149.8	-54.4	0.6	1	7	0	af5-1a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af5-1	pmagpy-3.16.0: demag_gui	af5-1a
+This study	Fit 1	0.1	149.7	-56.5	0.8	1	7	0	af5-2a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	af5-2	pmagpy-3.16.0: demag_gui	af5-2a
+This study									af5-3a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af5-3		af5-3a
+This study									af5-4a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af5-4		af5-4a
+This study									af5-5a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af5-5		af5-5a
+This study									af5-6a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	af5-6		af5-6a
+This study	Fit 1	1.3	207	-25.8	0.6	1	7	0	mh1-37a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh1-37	pmagpy-3.16.0: demag_gui	mh1-37a
+This study	Fit 1	0.2	204.9	-33.5	0.5	1	7	0	mh1-38a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh1-38	pmagpy-3.16.0: demag_gui	mh1-38a
+This study									mh1-39a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh1-39		mh1-39a
+This study									mh1-40a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh1-40		mh1-40a
+This study									mh1-41a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh1-41		mh1-41a
+This study									mh1-42a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh1-42		mh1-42a
+This study	Fit 1	0.4	202.5	-31.5	0.6	1	9	0	mh2-1a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh2-1	pmagpy-3.16.0: demag_gui	mh2-1a
+This study	Fit 1	0.4	196.7	-34.8	0.4	1	4	0	mh2-2a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh2-2	pmagpy-3.16.0: demag_gui	mh2-2a
+This study	Fit 1	0.5	197.6	-35	0.6	1	4	0	mh2-3a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh2-3	pmagpy-3.16.0: demag_gui	mh2-3a
+This study	Fit 1	0.4	202.7	-39.2	0.5	1	4	0	mh2-4a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh2-4	pmagpy-3.16.0: demag_gui	mh2-4a
+This study	Fit 1	0.2	202.2	-35.3	0.3	1	4	0	mh2-5a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh2-5	pmagpy-3.16.0: demag_gui	mh2-5a
+This study	Fit 1	0.3	198.7	-36.9	0.3	1	4	0	mh2-6a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh2-6	pmagpy-3.16.0: demag_gui	mh2-6a
+This study	Fit 1	0.5	205.5	-33.7	0.8	1	4	0	mh3-10a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh3-10	pmagpy-3.16.0: demag_gui	mh3-10a
+This study	Fit 1	0.7	206.2	-30.5	0.6	1	4	0	mh3-11a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh3-11	pmagpy-3.16.0: demag_gui	mh3-11a
+This study	Fit 1	0.7	203.7	-32.8	0.4	1	4	0	mh3-12a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh3-12	pmagpy-3.16.0: demag_gui	mh3-12a
+This study	Fit 1	0.1	202.3	-32.3	0.7	1	9	0	mh3-7a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh3-7	pmagpy-3.16.0: demag_gui	mh3-7a
+This study	Fit 1	0.5	206.8	-33.6	1.2	1	4	0	mh3-8a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh3-8	pmagpy-3.16.0: demag_gui	mh3-8a
+This study	Fit 1	0.1	207.9	-31.7	0.4	1	4	0	mh3-9a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh3-9	pmagpy-3.16.0: demag_gui	mh3-9a
+This study	Fit 1	0.5	193.7	-32.7	0.3	1	6	0	mh4-31a	Extrusive	Lava Flow		u	Basaltic Lava	7.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh4-31	pmagpy-3.16.0: demag_gui	mh4-31a
+This study	Fit 1	0.3	200.4	-29.8	0.7	1	8	0	mh4-32a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	0.00E+00	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh4-32	pmagpy-3.16.0: demag_gui	mh4-32a
+This study									mh4-33a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh4-33		mh4-33a
+This study									mh4-34a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh4-34		mh4-34a
+This study									mh4-35a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh4-35		mh4-35a
+This study									mh4-36a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh4-36		mh4-36a
+This study									mh5-25a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh5-25		mh5-25a
+This study	Fit 1	1.1	194.7	-33.1	0.8	1	7	0	mh5-26a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh5-26	pmagpy-3.16.0: demag_gui	mh5-26a
+This study									mh5-27a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh5-27		mh5-27a
+This study	Fit 1	0.8	198.1	-34.9	1	1	7	0	mh5-28a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh5-28	pmagpy-3.16.0: demag_gui	mh5-28a
+This study									mh5-29a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh5-29		mh5-29a
+This study									mh5-30a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	mh5-30		mh5-30a
+This study	Fit 1	0.8	207	-24.6	1.8	1	10	0	mh6-13	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh6-1	pmagpy-3.16.0: demag_gui	mh6-13
+This study	Fit 1	0.9	205.2	-25.3	0.4	1	4	0	mh6-14	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh6-1	pmagpy-3.16.0: demag_gui	mh6-14
+This study	Fit 1	1.8	204.5	-23	0.7	1	4	0	mh6-15	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh6-1	pmagpy-3.16.0: demag_gui	mh6-15
+This study	Fit 1	0.7	204.4	-40.6	0.5	1	4	0	mh6-16	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh6-1	pmagpy-3.16.0: demag_gui	mh6-16
+This study	Fit 1	0.2	205.1	-37.2	0.6	1	4	0	mh6-17	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh6-1	pmagpy-3.16.0: demag_gui	mh6-17
+This study	Fit 1	0.6	205.3	-37.6	0.5	1	4	0	mh6-18	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	mh6-1	pmagpy-3.16.0: demag_gui	mh6-18
+This study	Fit 1	0.7	194.6	-16.7	1.1	1	7	0	nd1-1a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd1-1	pmagpy-3.16.0: demag_gui	nd1-1a
+This study	Fit 1	0.1	194.5	-16.5	0.4	1	4	0	nd1-2a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd1-2	pmagpy-3.16.0: demag_gui	nd1-2a
+This study	Fit 1	0.3	200.7	-37.8	0.2	1	4	0	nd1-3a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd1-3	pmagpy-3.16.0: demag_gui	nd1-3a
+This study	Fit 1	0.5	198	-35.2	0.2	1	4	0	nd1-4a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd1-4	pmagpy-3.16.0: demag_gui	nd1-4a
+This study	Fit 1	0.1	197.6	-37.6	0.4	1	4	0	nd1-5a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd1-5	pmagpy-3.16.0: demag_gui	nd1-5a
+This study									nd1-6a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd1-6		nd1-6a
+This study	Fit 1	1	182	-39.6	1.3	1	6	0	nd10-56a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd10-56	pmagpy-3.16.0: demag_gui	nd10-56a
+This study	Fit 1	2.5	186	-38.5	1.4	1	4	0	nd10-57a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd10-57	pmagpy-3.16.0: demag_gui	nd10-57a
+This study									nd10-58a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd10-58		nd10-58a
+This study	Fit 1	1.4	183.2	-31.4	1	1	4	0	nd10-59a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd10-59	pmagpy-3.16.0: demag_gui	nd10-59a
+This study									nd10-60a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd10-60		nd10-60a
+This study									nd10-61a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd10-61		nd10-61a
+This study									nd11-62a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd11-62		nd11-62a
+This study									nd11-63a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd11-63		nd11-63a
+This study	Fit 1	0.4	185.6	-41.3	0.9	1	4	0	nd11-64a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd11-64	pmagpy-3.16.0: demag_gui	nd11-64a
+This study	Fit 1	0.5	176.7	-35.9	0.3	1	4	0	nd11-65a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd11-65	pmagpy-3.16.0: demag_gui	nd11-65a
+This study	Fit 1	0.8	171.5	-36.3	0.7	1	4	0	nd11-66a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd11-66	pmagpy-3.16.0: demag_gui	nd11-66a
+This study	Fit 1	0.8	171.6	-36.7	0.6	1	4	0	nd11-67a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd11-67	pmagpy-3.16.0: demag_gui	nd11-67a
+This study	Fit 1	0.5	180.8	-34.7	0.3	1	8	0	nd12-68	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	3.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd12-6	pmagpy-3.16.0: demag_gui	nd12-68
+This study	Fit 1	0.8	178.3	-35.5	1.4	1	4	0	nd12-69a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd12-69	pmagpy-3.16.0: demag_gui	nd12-69a
+This study	Fit 1	0.7	180.8	-35.9	0.5	1	5	0	nd12-70a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd12-70	pmagpy-3.16.0: demag_gui	nd12-70a
+This study	Fit 1	0.2	173.2	-39.5	1.5	1	5	0	nd12-71a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd12-71	pmagpy-3.16.0: demag_gui	nd12-71a
+This study	Fit 1	0.9	169.7	-35.8	1.3	1	4	0	nd12-73	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd12-7	pmagpy-3.16.0: demag_gui	nd12-73
+This study	Fit 1	0.5	161.3	-39	0.3	1	4	0	nd13-74a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd13-74	pmagpy-3.16.0: demag_gui	nd13-74a
+This study	Fit 1	0.6	148.6	-40.1	0.6	1	4	0	nd13-75a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd13-75	pmagpy-3.16.0: demag_gui	nd13-75a
+This study	Fit 1	0.3	214.5	-29.7	0.2	1	4	0	nd13-76a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd13-76	pmagpy-3.16.0: demag_gui	nd13-76a
+This study	Fit 1	0.5	216.7	-28.4	0.1	1	4	0	nd13-77a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd13-77	pmagpy-3.16.0: demag_gui	nd13-77a
+This study									nd13-78a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd13-78		nd13-78a
+This study	Fit 1	1.3	140.4	-44.5	0.5	1	4	0	nd13-79a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd13-79	pmagpy-3.16.0: demag_gui	nd13-79a
+This study	Fit 1	0.5	187.4	-31.3	0.8	1	10	0	nd14-80a	Extrusive	Lava Flow		u	Basaltic Lava	1.10E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd14-80	pmagpy-3.16.0: demag_gui	nd14-80a
+This study	Fit 1	1.3	178.2	-32.4	0.5	1	4	0	nd14-81a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd14-81	pmagpy-3.16.0: demag_gui	nd14-81a
+This study	Fit 1	0.7	176.6	-38.2	1.1	1	4	0	nd14-82	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd14-8	pmagpy-3.16.0: demag_gui	nd14-82
+This study	Fit 1	0.5	175	-37.4	0.4	1	4	0	nd14-83a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd14-83	pmagpy-3.16.0: demag_gui	nd14-83a
+This study	Fit 1	0.9	175.7	-35.3	0.7	1	4	0	nd14-84a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd14-84	pmagpy-3.16.0: demag_gui	nd14-84a
+This study	Fit 1	0.3	179.4	-33.3	0.5	1	4	0	nd14-85a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd14-85	pmagpy-3.16.0: demag_gui	nd14-85a
+This study									nd15-86a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd15-86		nd15-86a
+This study	Fit 1	1	183.4	-40.1	0.7	1	4	0	nd15-87a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd15-87	pmagpy-3.16.0: demag_gui	nd15-87a
+This study	Fit 1	1.4	187.3	-37.5	1.4	1	4	0	nd15-88a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd15-88	pmagpy-3.16.0: demag_gui	nd15-88a
+This study	Fit 1	2	186	-38	0.7	1	4	0	nd15-89a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd15-89	pmagpy-3.16.0: demag_gui	nd15-89a
+This study	Fit 1	1	185.5	-37.9	2.1	1	4	0	nd15-90a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd15-90	pmagpy-3.16.0: demag_gui	nd15-90a
+This study	Fit 1	0.1	188.4	-31.5	1.4	1	4	0	nd15-91a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd15-91	pmagpy-3.16.0: demag_gui	nd15-91a
+This study									nd16-92a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd16-92		nd16-92a
+This study	Fit 1	0.7	180.1	-33.9	0.7	1	4	0	nd16-93a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd16-93	pmagpy-3.16.0: demag_gui	nd16-93a
+This study	Fit 1	2.1	182.3	-35.9	0.5	1	4	0	nd16-94a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd16-94	pmagpy-3.16.0: demag_gui	nd16-94a
+This study	Fit 1	0.2	168.1	-31.7	0.6	1	4	0	nd16-95a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd16-95	pmagpy-3.16.0: demag_gui	nd16-95a
+This study	Fit 1	1.4	176.4	-34.3	0.8	1	4	0	nd16-96a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd16-96	pmagpy-3.16.0: demag_gui	nd16-96a
+This study	Fit 1	0.1	173.2	-35.5	0.3	1	4	0	nd16-97a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd16-97	pmagpy-3.16.0: demag_gui	nd16-97a
+This study	Fit 1	1.6	200.8	-41.1	0.4	1	4	0	nd2-10a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd2-10	pmagpy-3.16.0: demag_gui	nd2-10a
+This study	Fit 1	1	198.3	-47.8	1.1	1	5	0	nd2-11a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	0.00E+00	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd2-11	pmagpy-3.16.0: demag_gui	nd2-11a
+This study	Fit 1	2.2	204.8	-41	0.5	1	4	0	nd2-12a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd2-12	pmagpy-3.16.0: demag_gui	nd2-12a
+This study	Fit 1	1.1	202.8	-37.1	0.7	1	11	0	nd2-7a	Extrusive	Lava Flow		u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd2-7	pmagpy-3.16.0: demag_gui	nd2-7a
+This study	Fit 1	1.3	203.8	-35.4	0.5	1	5	0	nd2-8a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	0.00E+00	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd2-8	pmagpy-3.16.0: demag_gui	nd2-8a
+This study	Fit 1	1.7	203.9	-37.8	0.8	1	4	0	nd2-9a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd2-9	pmagpy-3.16.0: demag_gui	nd2-9a
+This study									nd3-13a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd3-13		nd3-13a
+This study	Fit 1	0.2	206.2	-42.7	0.5	1	4	0	nd3-14a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd3-14	pmagpy-3.16.0: demag_gui	nd3-14a
+This study	Fit 1	3.3	195.8	-38.5	1	1	4	0	nd3-15a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd3-15	pmagpy-3.16.0: demag_gui	nd3-15a
+This study	Fit 1	1.5	206.1	-34.4	0.6	1	4	0	nd3-16a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd3-16	pmagpy-3.16.0: demag_gui	nd3-16a
+This study	Fit 1	3	196.6	-30.6	1.8	1	4	0	nd3-17a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd3-17	pmagpy-3.16.0: demag_gui	nd3-17a
+This study	Fit 1	1.9	196.4	-32.4	1.7	1	4	0	nd3-18a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd3-18	pmagpy-3.16.0: demag_gui	nd3-18a
+This study									nd4-19a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd4-19		nd4-19a
+This study	Fit 1	0.5	184.7	-24.4	0.4	1	5	0	nd4-20a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd4-20	pmagpy-3.16.0: demag_gui	nd4-20a
+This study	Fit 1	0.3	181.3	-22.1	0.2	1	4	0	nd4-21a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd4-21	pmagpy-3.16.0: demag_gui	nd4-21a
+This study	Fit 1	0.6	186.5	-30	0.1	1	4	0	nd4-22a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd4-22	pmagpy-3.16.0: demag_gui	nd4-22a
+This study	Fit 1	0.8	186.7	-32.6	0.6	1	4	0	nd4-23a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd4-23	pmagpy-3.16.0: demag_gui	nd4-23a
+This study									nd4-24a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd4-24		nd4-24a
+This study	Fit 1	0.9	192	-28.2	0.8	1	7	0	nd5-25a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd5-25	pmagpy-3.16.0: demag_gui	nd5-25a
+This study	Fit 1	1.2	197.4	-26.2	1.3	1	4	0	nd5-26a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd5-26	pmagpy-3.16.0: demag_gui	nd5-26a
+This study									nd5-27a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd5-27		nd5-27a
+This study									nd5-28a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd5-28		nd5-28a
+This study									nd5-29a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd5-29		nd5-29a
+This study									nd5-30a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd5-30		nd5-30a
+This study	Fit 1	0.7	186	-37.4	1.2	1	9	0	nd6-31a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-31	pmagpy-3.16.0: demag_gui	nd6-31a
+This study	Fit 1	1.3	191.3	-34.7	0.8	1	9	0	nd6-32a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-32	pmagpy-3.16.0: demag_gui	nd6-32a
+This study	Fit 1	1.5	196.7	-32.8	0.9	1	5	0	nd6-33a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-33	pmagpy-3.16.0: demag_gui	nd6-33a
+This study	Fit 1	1	192.8	-33	1.3	1	5	0	nd6-34a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-34	pmagpy-3.16.0: demag_gui	nd6-34a
+This study	Fit 1	0.2	196.5	-35.7	0.9	1	5	0	nd6-35a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-35	pmagpy-3.16.0: demag_gui	nd6-35a
+This study	Fit 1	1	188.7	-36.1	1.1	1	5	0	nd6-36a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-36	pmagpy-3.16.0: demag_gui	nd6-36a
+This study	Fit 1	0.3	187.7	-40.3	1.4	1	5	0	nd6-37a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd6-37	pmagpy-3.16.0: demag_gui	nd6-37a
+This study	Fit 1	0.7	186.2	-36.6	1	1	8	0	nd7-38a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd7-38	pmagpy-3.16.0: demag_gui	nd7-38a
+This study	Fit 1	0.7	190.9	-34.6	1.2	1	4	0	nd7-39a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd7-39	pmagpy-3.16.0: demag_gui	nd7-39a
+This study	Fit 1	1.1	184.8	-35.5	0.8	1	4	0	nd7-40a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd7-40	pmagpy-3.16.0: demag_gui	nd7-40a
+This study	Fit 1	1.6	179.5	-37.3	0.3	1	4	0	nd7-41a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd7-41	pmagpy-3.16.0: demag_gui	nd7-41a
+This study	Fit 1	1	186.1	-37.3	0.9	1	4	0	nd7-42a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd7-42	pmagpy-3.16.0: demag_gui	nd7-42a
+This study	Fit 1	1.5	178.7	-34.3	1.1	1	4	0	nd7-43a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd7-43	pmagpy-3.16.0: demag_gui	nd7-43a
+This study	Fit 1	0.4	190.4	-33.3	0.6	1	10	0	nd8-44a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd8-44	pmagpy-3.16.0: demag_gui	nd8-44a
+This study	Fit 1	0.4	185.8	-46.9	0.4	1	5	0	nd8-45	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd8-4	pmagpy-3.16.0: demag_gui	nd8-45
+This study	Fit 1	0.3	175.9	-41.5	0.5	1	5	0	nd8-46a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd8-46	pmagpy-3.16.0: demag_gui	nd8-46a
+This study	Fit 1	0.1	176.4	-40.6	0.4	1	5	0	nd8-47a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd8-47	pmagpy-3.16.0: demag_gui	nd8-47a
+This study	Fit 1	0.3	177.1	-38.2	0.5	1	5	0	nd8-48a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd8-48	pmagpy-3.16.0: demag_gui	nd8-48a
+This study									nd8-49a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd8-49		nd8-49a
+This study	Fit 1	0.7	180	-34.9	1.8	1	10	0	nd9-50	Extrusive	Lava Flow		u	Basaltic Lava	1.10E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd9-5	pmagpy-3.16.0: demag_gui	nd9-50
+This study	Fit 1	0.5	181.3	-35.1	1.1	1	4	0	nd9-51b	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd9-51	pmagpy-3.16.0: demag_gui	nd9-51b
+This study									nd9-52a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd9-52		nd9-52a
+This study	Fit 1	1.2	187.9	-34.6	0.3	1	4	0	nd9-53a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd9-53	pmagpy-3.16.0: demag_gui	nd9-53a
+This study	Fit 1	1.9	195.7	-34.1	1.8	1	4	0	nd9-54	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd9-5	pmagpy-3.16.0: demag_gui	nd9-54
+This study									nd9-54a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	nd9-54		nd9-54a
+This study	Fit 1	0.7	177	-37.3	1.3	1	4	0	nd9-55	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	nd9-5	pmagpy-3.16.0: demag_gui	nd9-55
+This study	Fit 1	0.2	167.6	-30	0.7	1	8	0	ne1-1a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne1-1	pmagpy-3.16.0: demag_gui	ne1-1a
+This study	Fit 1	0.3	170.2	-33	0.5	1	4	0	ne1-2a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne1-2	pmagpy-3.16.0: demag_gui	ne1-2a
+This study									ne1-4a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne1-4		ne1-4a
+This study									ne1-5a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne1-5		ne1-5a
+This study									ne1-6a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne1-6		ne1-6a
+This study	Fit 1	0.6	164.4	-30.3	0.8	1	4	0	ne2-10a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne2-10	pmagpy-3.16.0: demag_gui	ne2-10a
+This study	Fit 1	0.8	164.4	-32.4	1.2	1	4	0	ne2-11a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne2-11	pmagpy-3.16.0: demag_gui	ne2-11a
+This study									ne2-12a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne2-12		ne2-12a
+This study	Fit 1	1	168.8	-30.9	1.2	1	9	0	ne2-7a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne2-7	pmagpy-3.16.0: demag_gui	ne2-7a
+This study	Fit 1	0.4	162.9	-27.5	0.9	1	4	0	ne2-8a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne2-8	pmagpy-3.16.0: demag_gui	ne2-8a
+This study	Fit 1	0.6	160.1	-31.2	1.2	1	4	0	ne2-9a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne2-9	pmagpy-3.16.0: demag_gui	ne2-9a
+This study	Fit 1	1.6	160.3	-34.1	1.7	1	8	0	ne3-13a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne3-13	pmagpy-3.16.0: demag_gui	ne3-13a
+This study	Fit 1	1.3	161.1	-31.9	1.9	1	4	0	ne3-14a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne3-14	pmagpy-3.16.0: demag_gui	ne3-14a
+This study	Fit 1	1.2	159.6	-32.7	2.7	1	4	0	ne3-15a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne3-15	pmagpy-3.16.0: demag_gui	ne3-15a
+This study									ne3-16b	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne3-16		ne3-16b
+This study									ne3-17a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne3-17		ne3-17a
+This study									ne3-18a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne3-18		ne3-18a
+This study	Fit 1	0.7	151.8	-26.7	1	1	8	0	ne4-19a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne4-19	pmagpy-3.16.0: demag_gui	ne4-19a
+This study	Fit 1	0.2	164	-32.9	1.8	1	7	0	ne4-20a	Extrusive	Lava Flow		u	Basaltic Lava	1.40E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne4-20	pmagpy-3.16.0: demag_gui	ne4-20a
+This study	Fit 1	0.5	172.2	-32	0.7	1	4	0	ne4-21a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne4-21	pmagpy-3.16.0: demag_gui	ne4-21a
+This study	Fit 1	0.9	161.2	-34.8	0.6	1	4	0	ne4-22a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne4-22	pmagpy-3.16.0: demag_gui	ne4-22a
+This study	Fit 1	0.2	167	-28	1.7	1	4	0	ne4-23a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne4-23	pmagpy-3.16.0: demag_gui	ne4-23a
+This study									ne4-24a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ne4-24		ne4-24a
+This study	Fit 1	0.3	167.9	-62.7	0.6	1	8	0	ne5-25a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne5-25	pmagpy-3.16.0: demag_gui	ne5-25a
+This study	Fit 1	1	163.1	-59.8	0.9	1	4	0	ne5-26a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne5-26	pmagpy-3.16.0: demag_gui	ne5-26a
+This study	Fit 1	1.2	174.5	-58.4	0.4	1	4	0	ne5-27a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne5-27	pmagpy-3.16.0: demag_gui	ne5-27a
+This study	Fit 1	0.4	168.5	-53.8	1.8	1	4	0	ne5-28a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne5-28	pmagpy-3.16.0: demag_gui	ne5-28a
+This study	Fit 1	0.4	165.7	-54.4	2.1	1	4	0	ne5-29a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne5-29	pmagpy-3.16.0: demag_gui	ne5-29a
+This study	Fit 1	0.2	170.3	-56.2	2.1	1	4	0	ne5-30a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne5-30	pmagpy-3.16.0: demag_gui	ne5-30a
+This study	Fit 1	0.4	178	-58	0.5	1	8	0	ne6-31a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne6-31	pmagpy-3.16.0: demag_gui	ne6-31a
+This study	Fit 1	0.3	173.9	-50.9	0.5	1	4	0	ne6-32a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne6-32	pmagpy-3.16.0: demag_gui	ne6-32a
+This study	Fit 1	0.6	177.6	-55.7	0.5	1	4	0	ne6-33a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne6-33	pmagpy-3.16.0: demag_gui	ne6-33a
+This study	Fit 1	0.2	173.7	-56	0.2	1	4	0	ne6-34a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne6-34	pmagpy-3.16.0: demag_gui	ne6-34a
+This study	Fit 1	0.3	173.7	-59.1	0.2	1	4	0	ne6-35a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne6-35	pmagpy-3.16.0: demag_gui	ne6-35a
+This study	Fit 1	0.5	173.6	-58.6	0.4	1	4	0	ne6-36a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne6-36	pmagpy-3.16.0: demag_gui	ne6-36a
+This study	Fit 1	0.3	195.1	-53.6	0.8	1	7	0	ne7-37a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-37	pmagpy-3.16.0: demag_gui	ne7-37a
+This study	Fit 1	0.8	183.2	-54.2	0.5	1	4	0	ne7-38a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-38	pmagpy-3.16.0: demag_gui	ne7-38a
+This study	Fit 1	0.4	192.2	-56.2	0.2	1	4	0	ne7-39a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-39	pmagpy-3.16.0: demag_gui	ne7-39a
+This study	Fit 1	0.3	196.4	-55.6	0.6	1	4	0	ne7-40a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-40	pmagpy-3.16.0: demag_gui	ne7-40a
+This study	Fit 1	1	191.2	-56.1	0.5	1	4	0	ne7-41a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-41	pmagpy-3.16.0: demag_gui	ne7-41a
+This study	Fit 1	0.4	189.9	-53.6	0.7	1	4	0	ne7-42a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-42	pmagpy-3.16.0: demag_gui	ne7-42a
+This study	Fit 1	0.6	186.4	-55.8	0.3	1	4	0	ne7-43a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ne7-43	pmagpy-3.16.0: demag_gui	ne7-43a
+This study	Fit 1	1	168.4	-52.8	0.8	1	8	0	ns1-1a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns1-1	pmagpy-3.16.0: demag_gui	ns1-1a
+This study	Fit 1	1.3	164.1	-53.5	0.7	1	4	0	ns1-2a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns1-2	pmagpy-3.16.0: demag_gui	ns1-2a
+This study	Fit 1	0.3	165.9	-54.9	0.5	1	4	0	ns1-3a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns1-3	pmagpy-3.16.0: demag_gui	ns1-3a
+This study	Fit 1	1.2	176.9	-49.5	1.6	1	4	0	ns1-4a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns1-4	pmagpy-3.16.0: demag_gui	ns1-4a
+This study	Fit 1	1.1	170.2	-54.7	0.5	1	4	0	ns1-5a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns1-5	pmagpy-3.16.0: demag_gui	ns1-5a
+This study	Fit 1	0.3	169.8	-52.7	0.7	1	4	0	ns1-6a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns1-6	pmagpy-3.16.0: demag_gui	ns1-6a
+This study									ns2-10a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns2-10		ns2-10a
+This study									ns2-11a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns2-11		ns2-11a
+This study	Fit 1	2.4	179.3	-55.5	1	1	4	0	ns2-12a	Extrusive	Lava Flow		u	Basaltic Lava	4.00E-02	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns2-12	pmagpy-3.16.0: demag_gui	ns2-12a
+This study									ns2-7a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns2-7		ns2-7a
+This study	Fit 1	0.5	177.3	-51.6	3.1	1	4	0	ns2-8a	Extrusive	Lava Flow		u	Basaltic Lava	6.00E-02	1.50E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns2-8	pmagpy-3.16.0: demag_gui	ns2-8a
+This study									ns2-9a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns2-9		ns2-9a
+This study	Fit 1	0.5	164	-32.9	1.5	1	7	0	ns3-13a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns3-13	pmagpy-3.16.0: demag_gui	ns3-13a
+This study	Fit 1	0.4	162.8	-31.2	1.2	1	4	0	ns3-14a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns3-14	pmagpy-3.16.0: demag_gui	ns3-14a
+This study	Fit 1	0.4	158.5	-34.7	0.2	1	4	0	ns3-15a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns3-15	pmagpy-3.16.0: demag_gui	ns3-15a
+This study	Fit 1	1.2	161.7	-36.1	0.3	1	4	0	ns3-16a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns3-16	pmagpy-3.16.0: demag_gui	ns3-16a
+This study	Fit 1	0.4	163.5	-33.9	1	1	4	0	ns3-17a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns3-17	pmagpy-3.16.0: demag_gui	ns3-17a
+This study	Fit 1	1.1	163.9	-34.3	1.3	1	4	0	ns3-18a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns3-18	pmagpy-3.16.0: demag_gui	ns3-18a
+This study	Fit 1	0.6	164.5	-26.4	1.5	1	8	0	ns4-19a	Extrusive	Lava Flow		u	Basaltic Lava	9.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns4-19	pmagpy-3.16.0: demag_gui	ns4-19a
+This study	Fit 1	0.1	162.7	-29.3	0.3	1	4	0	ns4-20a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns4-20	pmagpy-3.16.0: demag_gui	ns4-20a
+This study	Fit 1	0.8	169.9	-22.6	0.3	1	4	0	ns4-21a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns4-21	pmagpy-3.16.0: demag_gui	ns4-21a
+This study	Fit 1	1.3	163.1	-28	1	1	4	0	ns4-22a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns4-22	pmagpy-3.16.0: demag_gui	ns4-22a
+This study	Fit 1	0.5	166.3	-29.4	0.5	1	4	0	ns4-23a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns4-23	pmagpy-3.16.0: demag_gui	ns4-23a
+This study	Fit 1	0.5	167.6	-28	0.4	1	4	0	ns4-24a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns4-24	pmagpy-3.16.0: demag_gui	ns4-24a
+This study	Fit 1	0.9	156.1	-25.9	1.6	1	11	0	ns5-25a	Extrusive	Lava Flow		u	Basaltic Lava	1.10E-01	1.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns5-25	pmagpy-3.16.0: demag_gui	ns5-25a
+This study	Fit 1	1.5	167.4	-24.1	0.8	1	4	0	ns5-26a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns5-26	pmagpy-3.16.0: demag_gui	ns5-26a
+This study	Fit 1	0.5	171.5	-24.3	1.1	1	4	0	ns5-27a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns5-27	pmagpy-3.16.0: demag_gui	ns5-27a
+This study	Fit 1	0.6	164.5	-24.3	0.4	1	4	0	ns5-28a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns5-28	pmagpy-3.16.0: demag_gui	ns5-28a
+This study	Fit 1	0.5	171.1	-20.8	0.8	1	4	0	ns5-29a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns5-29	pmagpy-3.16.0: demag_gui	ns5-29a
+This study	Fit 1	0.7	169.8	-21.6	1.3	1	4	0	ns5-30a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns5-30	pmagpy-3.16.0: demag_gui	ns5-30a
+This study	Fit 1	5	167.7	-28.4	3	1	5	0	ns6-31a	Extrusive	Lava Flow		u	Basaltic Lava	8.00E-02	4.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns6-31	pmagpy-3.16.0: demag_gui	ns6-31a
+This study									ns6-32a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns6-32		ns6-32a
+This study	Fit 1	3.2	160.2	-32.3	4.6	1	5	0	ns6-34a	Extrusive	Lava Flow		u	Basaltic Lava	1.00E-01	2.00E-02	T	LP-DIR-AF:DE-BFL:DA-DIR-GEO	g	ns6-34	pmagpy-3.16.0: demag_gui	ns6-34a
+This study									ns6-35a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns6-35		ns6-35a
+This study									ns6-36a	Extrusive	Lava Flow			Basaltic Lava				LP-DIR	g	ns6-36		ns6-36a

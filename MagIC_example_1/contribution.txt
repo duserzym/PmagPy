@@ -1,0 +1,3 @@
+tab 	contribution
+contributor	data_model_version	id	reference	timestamp	version
+@ronshaar	3.0	16676	10.1029/2019GC008479	2019-08-28T20:20:19.374Z	1
